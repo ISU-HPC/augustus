@@ -1,2 +1,2 @@
-# augusuts
+# augustus
 Singualrity recipe for Augustus
